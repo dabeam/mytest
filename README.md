@@ -2,8 +2,8 @@
 
 > node版本 >= 18
 
-1. 下载依赖 npm i
-2. 启动项目 npm run dev 
+1. 下载依赖```npm i```
+2. 启动项目 ```npm run dev ```
 3. 浏览页面效果[http://localhost:3000](http://localhost:3000) 
 
 
